@@ -4,7 +4,7 @@ math
 random
 numpy
 datetime
-tensorflow==2.11.1  # Or the appropriate version
+tensorflow==2.12.1  # Or the appropriate version
 keras==2.4.0  # Or the appropriate version
 collections
 matplotlib
